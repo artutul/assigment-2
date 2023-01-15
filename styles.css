@@ -260,9 +260,6 @@ footer{
         padding-top: 20px;
         flex-direction: column;
     }
-    nav h1{
-        display: none;
-    }
     .brand-new{
         width: 100%;
         text-align: center;
